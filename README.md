@@ -2,4 +2,4 @@
 kmer alignment tools 
 
 
-Docker of kallisto
+Docker for kallisto
